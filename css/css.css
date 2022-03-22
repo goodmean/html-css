@@ -1,0 +1,17 @@
+div {
+    width: auto;
+    height: 100px;
+    background-color: brown;
+}
+
+section {
+    width: 50%;
+    height: 100px;
+    background-color: cadetblue;
+}
+
+nav {
+    width: 600px;
+    height: 100px;
+    background-color: chartreuse;
+}
