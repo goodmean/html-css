@@ -4,13 +4,15 @@ div {
 }
 
 section {
-    width: 50%;
+    width: 100px;
     height: 100px;
     background-color: cadetblue;
+    display: inline-block;
 }
 
 nav {
-    width: 600px;
+    width: 100px;
     height: 100px;
     background-color: chartreuse;
+    display: inline-block;
 }
