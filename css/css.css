@@ -1,18 +1,3 @@
-div {
-    height: 100px;
-    background-color: brown;
-}
-
-section {
-    width: 100px;
-    height: 100px;
-    background-color: cadetblue;
-    display: inline-block;
-}
-
-nav {
-    width: 100px;
-    height: 100px;
-    background-color: chartreuse;
-    display: inline-block;
+table {
+    border-collapse: collapse;
 }
