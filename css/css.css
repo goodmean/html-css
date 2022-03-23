@@ -1,18 +1,18 @@
-table {
-    border-collapse: collapse;
-}
-
 div {
-    width: 100px;
-    height: 100px;
-    background-color: brown;
+    font-size: 5rem;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: -0.4rem;
 }
 
-div {
-    background-color: aqua;
+nav > section{
+    /* background-color: blueviolet; */
+    display: inline-block;
+    width: 50px;
+    /* text-align: center; */
 }
 
-div:hover {
-    width: 200px;
-    height: 200px;
-    transition: 1s;
+nav{
+    text-align: center;
+    font-weight: bold;
+}
