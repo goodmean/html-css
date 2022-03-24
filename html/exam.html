@@ -10,23 +10,14 @@
 </head>
 
 <body>
-    <div>BMX</div>
-
-    <nav>
-        BMX
-        <section>|</section>
-        STYLE
-        <section>|</section>
-        MEDIA
-        <section>|</section>
-        NEWS
-        <section>|</section>
-        STORE
-        <section>|</section>
-        CUSTOMER
-        <section>|</section>
-    </nav>
-
+    1단계
+    <!-- nav>section*7{item$} -->
+    2단계
+    <!-- nav>({|}+section{item$})*7 -->
+    3단계
+    <!-- nav>({|}+section{item$})*7+{|} -->
+    4단계
+    <!-- nav>({|}+section>a[href="#"]{item$})*7+{|} -->
 
 </body>
 
