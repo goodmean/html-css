@@ -1,20 +1,7 @@
-img{
-    margin: 20px;
-    border: 10px solid rebeccapurple;
-}
-
-div > img {
-    width: 600px;
-}
-
-section > img {
-    width: 600px;
-    height: 600px;
-    object-fit: cover; 
-}
-
-nav > img {
-    width: 600px;
-    height: 800px;
-    object-fit: contain;
+div {
+    height: 100px;
+    background-color: red;
+    width: 300px;
+    margin-left: auto;
+    margin-right: 0;
 }
