@@ -1,7 +1,13 @@
-div {
-    height: 100px;
-    background-color: red;
-    width: 300px;
-    margin-left: auto;
-    margin-right: 0;
+section{
+    text-align: center;
+}
+
+section > div:last-child{
+    margin-top: 30px;
+
+}
+
+section > div:last-child > img:nth-child(2){
+    margin-left: 20px;
+    margin-right: 20px;
 }
