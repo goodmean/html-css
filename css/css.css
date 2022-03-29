@@ -1,13 +1,19 @@
-section{
-    text-align: center;
-}
-
-section > div:last-child{
-    margin-top: 30px;
+a{
 
 }
 
-section > div:last-child > img:nth-child(2){
-    margin-left: 20px;
-    margin-right: 20px;
+.a{
+
+}
+
+#a{
+
+}
+
+.a.b{
+
+}
+
+section.a.b{
+    color: aquamarine;
 }
