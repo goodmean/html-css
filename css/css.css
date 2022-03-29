@@ -1,19 +1,24 @@
-a{
-
+body{
+    background-color: black;
 }
 
-.a{
-
+section{
+    text-align: center;
 }
 
-#a{
-
+section > div{
+    height: 50px;
+    width: 50px;
+    background-color: gray;
+    display: inline-block;
+    border-radius: 10px;
+    margin-right: 10px;
 }
 
-.a.b{
-
+.white{
+    background-color: aliceblue;
 }
 
-section.a.b{
-    color: aquamarine;
+.gray:hover{
+    background-color: aliceblue;
 }
